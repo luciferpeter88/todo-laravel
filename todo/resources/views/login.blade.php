@@ -23,7 +23,7 @@
                 </div>
                 <div class="px-10 pt-4 pb-8 rounded-3xl shadow-xl">
                     <div class="mx-auto text-center">
-                        <h1 class="text-4xl text-gray-800">Register</h1>
+                        <h1 class="text-4xl text-gray-800">Sign In</h1>
                     </div>
                     <form action="" method="POST">
                         <div class="relative">
@@ -44,10 +44,11 @@
                         </div>
 
                         <button type="button"
-                            class="w-full mt-14 py-4 text-lg text-white font-semibold text-center rounded-full bg-purple-500 transition-all hover:bg-purple-600 focus:outline-none">Sign
-                            up</button>
-                        <p class="text-center text-sm text-gray-400 mt-4">Have an account ? <a href="#"
-                                class="font-semibold text-purple-600 hover:underline">Log in</a>
+                            class="w-full mt-14 py-4 text-lg text-white font-semibold text-center rounded-full bg-purple-500 transition-all hover:bg-purple-600 focus:outline-none">Log
+                            In
+                        </button>
+                        <p class="text-center text-sm text-gray-400 mt-4">Don't have an account ? <a
+                                href="/registration" class="font-semibold text-purple-600 hover:underline">Sign Up</a>
                         </p>
                     </form>
                 </div>
